@@ -8,6 +8,8 @@ dbus-python = "*"
 gatt = "*"
 pycairo = "*"
 pygobject = "*"
+requests = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
